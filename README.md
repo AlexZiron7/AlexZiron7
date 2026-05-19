@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react.JS, Node.Js, Express, Python and Machine Learning courses**
 
-- 👨‍💻 My porfolio [Work in progress]
+- 👨‍💻 My portfolio [Work in progress]
 
 - 📫 How to reach me **Alex.ziron7@gmail.com**
 
