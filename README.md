@@ -53,12 +53,12 @@ I am a Senior Full-Stack Developer and entrepreneur based in Venezuela. I specia
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Key Projects & Ventures
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexziron7&show_icons=true&theme=tokyonight&count_private=true" alt="Alexander's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexziron7&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
+- **Nerabook** 🗓️ — Multi-tenant SaaS platform for appointment management in barbershops and spas.
+- **ZyncroPOS** 🛒 — Robust Point-of-Sale (POS) system tailored for retail and hardware stores, integrated with local fiscal regulations.
+- **AutoRedVE** 🚗 — Advanced management platform and inventory control system optimized for mechanical workshops.
+- **NidusCRM** 🏢 — High-performance real-estate brokerage tool designed for the American market.
 
 ---
 
